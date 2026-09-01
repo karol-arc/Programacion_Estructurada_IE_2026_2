@@ -5,7 +5,7 @@
 
 ---
 
-> [NOTE]
+
 > **Portafolio de Evidencias / Entregable de
  Clase**
 
@@ -22,4 +22,4 @@
 
 ## Indice de Unidade de aprendizaje
 
-- **[Unidad 1: Introduccion a la Algoritmia y Diagramas de Flujo]()
+- **[Unidad 1: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
