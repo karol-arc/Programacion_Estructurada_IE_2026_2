@@ -23,8 +23,8 @@
 ## Indice de Unidade de aprendizaje
 
 - **[Unidad 1: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
-- **[Unidad 2: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
-- **[Unidad 3: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
-- **[Unidad 4: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
-- **[Unidad 5: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
-- **[Unidad 6: Introduccion a la Algoritmia y Diagramas de Flujo](./unidad1/pseudocodigo_04_10/)**
+- **[Unidad 2: ](/unidad1/pseudocodigo_04_10/)**
+- **[Unidad 3: ](/unidad1/pseudocodigo_04_10/)**
+- **[Unidad 4: ](/unidad1/pseudocodigo_04_10/)**
+- **[Unidad 5: ](/unidad1/pseudocodigo_04_10/)**
+- **[Unidad 6: ](/unidad1/pseudocodigo_04_10/)**
