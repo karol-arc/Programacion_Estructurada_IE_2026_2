@@ -7,3 +7,6 @@
 5. Utilizar la ley de ohm, para calcular el voltaje.
 6. imprimir el resultado del voltaje.
 7. Fin.
+
+### Diagrama de flujo
+[ejercicios0101.dfd](ercicio0101.dfd)
