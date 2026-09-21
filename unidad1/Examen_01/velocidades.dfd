@@ -1,0 +1,212 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Ingresa la velocidad del vehiculo 1 : '
+5
+1
+3
+vc1
+4
+1
+40
+'Ingresa la velocidad del vehiculo 2 : '
+5
+1
+3
+vc2
+4
+1
+40
+'Ingresa la velocidad del vehiculo 3 : '
+5
+1
+3
+vc3
+4
+1
+40
+'Ingresa la velocidad del vehiculo 4 : '
+5
+1
+3
+vc4
+4
+1
+40
+'Ingresa la velocidad del vehiculo 5 : '
+5
+1
+3
+vc5
+7
+0
+1
+7
+vc1>vc2
+7
+1
+1
+7
+vc2>vc3
+7
+1
+1
+7
+vc2>vc4
+7
+1
+1
+8
+vc2 >vc5
+4
+1
+52
+'El vehiculo 2 es el que tiene mayor velocidad', vc2
+13
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+13
+7
+0
+1
+7
+vc4>vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+40
+'El vehiculo 4 va a mayor velocidad',vc4
+13
+13
+13
+7
+0
+1
+9
+vc3 > vc4
+7
+0
+1
+9
+vc4 > vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+40
+'El vehiculo 4 va a mayor velocidad',vc4
+13
+13
+7
+0
+1
+9
+vc3 > vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+41
+'El vehiculo 3 va a mayor velocidad ',vc3
+13
+13
+13
+13
+7
+0
+1
+7
+vc1>vc3
+7
+0
+1
+9
+vc3 > vc4
+7
+0
+1
+9
+vc4 > vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+40
+'El vehiculo 4 va a mayor velocidad',vc4
+13
+13
+7
+0
+1
+9
+vc3 > vc5
+13
+4
+1
+40
+'El vehiculo 3 va a mayor velocidad',vc3
+13
+13
+13
+7
+0
+1
+7
+vc1>vc4
+7
+0
+1
+9
+vc4 > vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+40
+'El vehiculo 4 va a mayor velocidad',vc4
+13
+13
+7
+0
+1
+7
+vc1>vc5
+4
+1
+40
+'El vehiculo 5 va a mayor velocidad',vc5
+13
+4
+1
+40
+'El vehiculo 1 va a mayor velocidad',vc1
+13
+13
+13
+13
+1
