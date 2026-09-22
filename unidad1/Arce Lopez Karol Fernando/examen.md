@@ -6,22 +6,27 @@
 1. Solicita la velocidad de vehiculo 1
 2. guargar la velocidad de vehiculo 1 
 10. Agregar un ciclo mientras que cumpla con el rango(que el vehiculo vaya de 0 a 260 k/h)
+11. Cerrar programa si no cumple con el rango
 3. Solicita la velocidad de vehiculo 2
 4. guargar la velocidad de vehiculo 2 
 10. Agregar un ciclo mientras que cumpla con el rango(que el vehiculo vaya de 0 a 260 k/h)
+11. Cerrar programa si no cumple con el rango
 5. Solicita la velocidad de vehiculo 3
 6. guargar la velocidad de vehiculo 3
 10. Agregar un ciclo mientras que cumpla con el rango(que el vehiculo vaya de 0 a 260 k/h)
+11. Cerrar programa si no cumple con el rango
 7. Solicita la velocidad de vehiculo 4
 8. guargar la velocidad de vehiculo 4
 10. Agregar un ciclo mientras que cumpla con el rango(que el vehiculo vaya de 0 a 260 k/h)
+11. Cerrar programa si no cumple con el rango
 9. Solicita la velocidad de vehiculo 5
 10. guargar la velocidad de vehiculo 5
 10. Agregar un ciclo mientras que cumpla con el rango(que el vehiculo vaya de 0 a 260 k/h)
+11. Cerrar programa si no cumple con el rango
 11. Hacer una comparacion entre todas las velocidades para ver cual es mayor.
 12. Imprimir el vehiculo con mayor velocidad.
 13. Fin
 
 
 ## Diagrama de flujo
-### [Diagrama de flujo](velocidades.dfd)
+### [Diagrama de flujo](velocidades14.dfd)
